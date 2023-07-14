@@ -94,76 +94,76 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
              video: https://www.youtube.com/watch?v=rW4vm0-DLYc&list=PLot-Xpze53lfxD6l5pAGvCD4nPvWKU8Qo&index=10
                 problem: https://leetcode.com/problems/implement-stack-using-queues/
             
-         3. Implement Queue using Stack:
+       3. Implement Queue using Stack:
 
-              video: https://www.youtube.com/watch?v=3Et9MrMc02A&pp=ygUabmVldGNvZGUgcXVldWUgdXNpbmcgc3RhY2s%3D
+           video: https://www.youtube.com/watch?v=3Et9MrMc02A&pp=ygUabmVldGNvZGUgcXVldWUgdXNpbmcgc3RhY2s%3D
                 problem: https://leetcode.com/problems/implement-queue-using-stacks/
 
-            4. Sqrt(x)
+         4. Sqrt(x)
                
-                problem: https://leetcode.com/problems/sqrtx/
+               problem: https://leetcode.com/problems/sqrtx/
                 video:
                 
-             5. 704. Binary Search
+           5. 704 Binary Search
              
                 problem: https://leetcode.com/problems/binary-search/
                 video:   
              
-             7. 1351. Count Negative Numbers in a Sorted Matrix
+           6.  Count Negative Numbers in a Sorted Matrix
                 
                 problem:  https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
                 video: 
              
-             8. 1351.  Peak Index in a Mountain Array
+             7. Peak Index in a Mountain Array
                 
                 
                 - problem:  https://leetcode.com/problems/peak-index-in-a-mountain-array/
                 - video:
              
-             9. Find Peak element:
+             8. Find Peak element:
                 
                 - video: https://www.youtube.com/watch?v=CFgUQUL7j_c   
                 - problem: 
              
-             10. Maximum Sub Array:
+             9. Maximum Sub Array:
                 
                 - video: https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4
                 - problem: https://leetcode.com/problems/maximum-subarray/
      
 - Linked List Course:_
           
-          course with problems (find all the similar problems on leetcode):
+     course with problems (find all the similar problems on leetcode):
                video: https://www.youtube.com/watch?v=Hj_rA0dhr2I&pp=ygUXbGlua2VkbGlzdCBmcmVlY29kZWNhbXA%3D
       
           
 - Linked list problems:_
              
-             1.  206. Reverse Linked List
+    1.  Reverse Linked List
                
-                https://leetcode.com/problems/reverse-linked-list/
-                https://www.youtube.com/watch?v=G0_I-ZF0S38
+           https://leetcode.com/problems/reverse-linked-list/
+           https://www.youtube.com/watch?v=G0_I-ZF0S38
              
-            2. Merge 2 sorted Lits
+      2. Merge 2 sorted Lits
             
-                https://leetcode.com/problems/merge-two-sorted-lists/
-                https://www.youtube.com/watch?v=XIdigk956u0
+           https://leetcode.com/problems/merge-two-sorted-lists/
+           https://www.youtube.com/watch?v=XIdigk956u0
              
-             3. Linked List Cycle
+        3. Linked List Cycle
                 
-                https://leetcode.com/problems/linked-list-cycle/
-                https://www.youtube.com/watch?v=gBTe7lFR3vc
+           https://leetcode.com/problems/linked-list-cycle/
+           https://www.youtube.com/watch?v=gBTe7lFR3vc
              
-             4. Reverse Linked List - Iterative AND Recursive
+        4. Reverse Linked List - Iterative AND Recursive
                
-               video: https://www.youtube.com/watch?v=G0_I-ZF0S38&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=10&pp=iAQB
+     video: https://www.youtube.com/watch?v=G0_I-ZF0S38&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=10&pp=iAQB
                code: https://leetcode.com/problems/reverse-linked-list/
               
-              5. Palindrome Linked List 
+     5. Palindrome Linked List 
                 
-                video: https://www.youtube.com/watch?v=yOzXms1J6Nk&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=13
+           video: https://www.youtube.com/watch?v=yOzXms1J6Nk&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=13
                 problem: 
                 
-              6. Remove Linked List element:
+        6. Remove Linked List element:
                 
-                  video: https://www.youtube.com/watch?v=JI71sxtHTng&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=21&pp=iAQB
+              video: https://www.youtube.com/watch?v=JI71sxtHTng&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=21&pp=iAQB
                   problem: 
