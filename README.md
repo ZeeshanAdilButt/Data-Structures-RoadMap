@@ -25,12 +25,14 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
      - Introduction to Hash Tables and Dictionaries by CS Dojo:
         https://www.youtube.com/watch?v=sfWyugl4JWA   
         
-**    Week 2 - 25 EASY problems ( 3-4 hours a day | 4 problems a day):**
+    Week 2 - 25 EASY problems ( 3-4 hours a day | 4 problems a day):
+    
      _ Easy String Algorithms_
         - String as character arrays:
             video: https://www.youtube.com/watch?v=TkTgo_7ab0M&pp=ygUQcHJpbnQgY2hhcmFjdGVycw%3D%3D
         - Count characters in string
             video: https://www.youtube.com/watch?v=kWr0TIjO6nU
+    
      _ - Arrays & Hashing:_
           - Contains Duplicate
              video: https://www.youtube.com/watch?v=3OamzN90kPg
@@ -47,6 +49,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
              - Search Insert Position
                 video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
                 problem: 
+      
       _ - Two Pointers:_
             - Valid Palindrome
                 video: https://leetcode.com/problems/valid-palindrome/         
@@ -54,6 +57,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
              - Best time to buy and Sell Stock:
                 video: https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7&pp=iAQB
                 problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+      
        _ - Stack & Queue Problems:_
             - Valid Parenthesis
                 video: https://www.youtube.com/watch?v=WTzjTskDFMg
@@ -82,9 +86,12 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
              - Maximum Sub Array:
                 video: https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4
                 problem: https://leetcode.com/problems/maximum-subarray/
+     
       - _Linked List:_
           course with problems (find all the similar problems on leetcode):
                video: https://www.youtube.com/watch?v=Hj_rA0dhr2I&pp=ygUXbGlua2VkbGlzdCBmcmVlY29kZWNhbXA%3D
+      
+          
           _Linked list problems:_
              - 206. Reverse Linked List
                 https://leetcode.com/problems/reverse-linked-list/
