@@ -40,7 +40,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
   
   2. Count characters in string
   
-- video: https://www.youtube.com/watch?v=kWr0TIjO6nU
+ video: https://www.youtube.com/watch?v=kWr0TIjO6nU
     
  - Arrays & Hashing:_
  
