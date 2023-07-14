@@ -15,7 +15,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
   > If you are trying to solve a problem that uses dynamic programming, first make sure you learn dynamic programming properly.
   
  Week 1- Data Structures Overview:
-    - Basic Understanding of Data structures in your language (C++ STL, C# Collections, Python Standard Library)
+    -Basic Understanding of Data structures in your language (C++ STL, C# Collections, Python Standard Library)
     - If you like C++ and more details > My code school Data Structures
         https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P (C++)
      - If you like Python > code basics - Data Structures   
