@@ -39,6 +39,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
         video: https://www.youtube.com/watch?v=TkTgo_7ab0M&pp=ygUQcHJpbnQgY2hhcmFjdGVycw%3D%3D
   
   2. Count characters in string
+  3. 
             video: https://www.youtube.com/watch?v=kWr0TIjO6nU
     
  - Arrays & Hashing:_
@@ -48,11 +49,11 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
           2. Valid Anagram:
               - video: https://www.youtube.com/watch?v=9UtInBqnCgA
               - problem: https://leetcode.com/problems/valid-anagram/
-           - Two Sum:
-                video: https://www.youtube.com/watch?v=KLlXCFG5TnA
+        3. Two Sum:
+           -  video: https://www.youtube.com/watch?v=KLlXCFG5TnA
                 problem: https://leetcode.com/problems/group-anagrams/
-            - Length of Last word:
-                video: https://www.youtube.com/watch?v=KT9rltZTybQ&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=27
+           4. Length of Last word:
+            -  video: https://www.youtube.com/watch?v=KT9rltZTybQ&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=27
                 problem:
              - Search Insert Position
                 video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
