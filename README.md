@@ -14,18 +14,18 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
   > If you are trying to solve a problem that uses graphs/trees, first make sure you learn graphs/tree properly
   > If you are trying to solve a problem that uses dynamic programming, first make sure you learn dynamic programming properly.
   
- Week 1- Data Structures Overview:
+## Week 1- Data Structures Overview:
  
-    - Basic Understanding of Data structures in your language (C++ STL, C# Collections, Python Standard Library)
-    - If you like C++ and more details > My code school Data Structures
+- Basic Understanding of Data structures in your language (C++ STL, C# Collections, Python Standard Library)
+- If you like C++ and more details > My code school Data Structures
         https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P (C++)
-     - If you like Python > code basics - Data Structures   
+- If you like Python > code basics - Data Structures   
         https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
         
-     - Introduction to Hash Tables and Dictionaries by CS Dojo:
+- Introduction to Hash Tables and Dictionaries by CS Dojo:
         https://www.youtube.com/watch?v=sfWyugl4JWA   
         
-Week 2 - 25 EASY problems ( 3-4 hours a day | 4 problems a day):
+## Week 2 - 25 EASY problems ( 3-4 hours a day | 4 problems a day):
     
      _ Easy String Algorithms_
         - String as character arrays:
