@@ -26,14 +26,18 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
   > https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
         
 - Introduction to Hash Tables and Dictionaries by CS Dojo:
+- 
         > https://www.youtube.com/watch?v=sfWyugl4JWA   
         
 ## Week 2 - 25 EASY problems ( 3-4 hours a day | 4 problems a day):
     
-     _ Easy String Algorithms_
-        - String as character arrays:
-            video: https://www.youtube.com/watch?v=TkTgo_7ab0M&pp=ygUQcHJpbnQgY2hhcmFjdGVycw%3D%3D
-        - Count characters in string
+- Easy String Algorithms
+
+  > String as character arrays:
+  
+            >> video: https://www.youtube.com/watch?v=TkTgo_7ab0M&pp=ygUQcHJpbnQgY2hhcmFjdGVycw%3D%3D
+  
+  >  Count characters in string
             video: https://www.youtube.com/watch?v=kWr0TIjO6nU
     
      _ - Arrays & Hashing:_
