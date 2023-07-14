@@ -39,84 +39,120 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
         video: https://www.youtube.com/watch?v=TkTgo_7ab0M&pp=ygUQcHJpbnQgY2hhcmFjdGVycw%3D%3D
   
   2. Count characters in string
-  3. 
+  
             video: https://www.youtube.com/watch?v=kWr0TIjO6nU
     
  - Arrays & Hashing:_
          1. Contains Duplicate
+         
             - video: https://www.youtube.com/watch?v=3OamzN90kPg
 	        - problem: https://leetcode.com/problems/contains-duplicate/
+	        
           2. Valid Anagram:
+          
               - video: https://www.youtube.com/watch?v=9UtInBqnCgA
-              - problem: https://leetcode.com/problems/valid-anagram/
+              - problem: https://leetcode.com/problems/valid-anagram
+              
         3. Two Sum:
+        
            -  video: https://www.youtube.com/watch?v=KLlXCFG5TnA
-                problem: https://leetcode.com/problems/group-anagrams/
+           - problem: https://leetcode.com/problems/group-anagrams/
+               
            4. Length of Last word:
+           
             -  video: https://www.youtube.com/watch?v=KT9rltZTybQ&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=27
-                problem:
-             - Search Insert Position
-                video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
-                problem: 
+              - problem:
+             -
+             5. Search Insert Position
+                
+                - video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
+                - problem: 
       
       _ - Two Pointers:_
-            - Valid Palindrome
-                video: https://leetcode.com/problems/valid-palindrome/         
-                problem: https://leetcode.com/problems/valid-palindrome/
-             - Best time to buy and Sell Stock:
-                video: https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7&pp=iAQB
-                problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+      
+           1. Valid Palindrome
+                - video: https://leetcode.com/problems/valid-palindrome/         
+                - problem: https://leetcode.com/problems/valid-palindrome/
+            2. - Best time to buy and Sell Stock:
+               - video: https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7&pp=iAQB
+                - problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
       
        _ - Stack & Queue Problems:_
-            - Valid Parenthesis
+            1. Valid Parenthesis
+                
                 video: https://www.youtube.com/watch?v=WTzjTskDFMg
                 problem: https://leetcode.com/problems/valid-parentheses/
-            - Implement Stack using Queue:
+
+            2. Implement Stack using Queue:
+                
                 video: https://www.youtube.com/watch?v=rW4vm0-DLYc&list=PLot-Xpze53lfxD6l5pAGvCD4nPvWKU8Qo&index=10
                 problem: https://leetcode.com/problems/implement-stack-using-queues/
-            - Implement Queue using Stack:
+            
+            3. Implement Queue using Stack:
                 video: https://www.youtube.com/watch?v=3Et9MrMc02A&pp=ygUabmVldGNvZGUgcXVldWUgdXNpbmcgc3RhY2s%3D
                 problem: https://leetcode.com/problems/implement-queue-using-stacks/
-            - Sqrt(x)
+
+            4. Sqrt(x)
                 problem: https://leetcode.com/problems/sqrtx/
                 video:
-             - 704. Binary Search
+                
+             5. 704. Binary Search
                 problem: https://leetcode.com/problems/binary-search/
                 video:   
-             - 1351. Count Negative Numbers in a Sorted Matrix
+             
+             6. 1351. Count Negative Numbers in a Sorted Matrix
                 problem:  https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
                 video: 
-             - 1351.  Peak Index in a Mountain Array
-                problem:  https://leetcode.com/problems/peak-index-in-a-mountain-array/
-                video:
-             - Find Peak element:
-                video: https://www.youtube.com/watch?v=CFgUQUL7j_c   
-                problem: 
-             - Maximum Sub Array:
-                video: https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4
-                problem: https://leetcode.com/problems/maximum-subarray/
+             
+             7. 1351.  Peak Index in a Mountain Array
+                
+                - problem:  https://leetcode.com/problems/peak-index-in-a-mountain-array/
+                - video:
+             
+             8. Find Peak element:
+                
+                - video: https://www.youtube.com/watch?v=CFgUQUL7j_c   
+                - problem: 
+             
+             9. Maximum Sub Array:
+                
+                - video: https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4
+                - problem: https://leetcode.com/problems/maximum-subarray/
      
-      - _Linked List:_
+- Linked List Course:_
+          
           course with problems (find all the similar problems on leetcode):
                video: https://www.youtube.com/watch?v=Hj_rA0dhr2I&pp=ygUXbGlua2VkbGlzdCBmcmVlY29kZWNhbXA%3D
       
           
-          _Linked list problems:_
-             - 206. Reverse Linked List
+- Linked list problems:_
+             
+             1.  206. Reverse Linked List
+               
                 https://leetcode.com/problems/reverse-linked-list/
                 https://www.youtube.com/watch?v=G0_I-ZF0S38
-             - Merge 2 sorted Lits
+             
+            2. Merge 2 sorted Lits
+            
                 https://leetcode.com/problems/merge-two-sorted-lists/
                 https://www.youtube.com/watch?v=XIdigk956u0
-              - Linked List Cycle
+             
+             3. Linked List Cycle
+                
                 https://leetcode.com/problems/linked-list-cycle/
                 https://www.youtube.com/watch?v=gBTe7lFR3vc
-              - Reverse Linked List - Iterative AND Recursive
+             
+             4. Reverse Linked List - Iterative AND Recursive
+               
                video: https://www.youtube.com/watch?v=G0_I-ZF0S38&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=10&pp=iAQB
                code: https://leetcode.com/problems/reverse-linked-list/
-              - Palindrome Linked List 
+              
+              5. Palindrome Linked List 
+                
                 video: https://www.youtube.com/watch?v=yOzXms1J6Nk&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=13
                 problem: 
-              - Remove Linked List element:
+                
+              6. Remove Linked List element:
+                
                   video: https://www.youtube.com/watch?v=JI71sxtHTng&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=21&pp=iAQB
                   problem: 
