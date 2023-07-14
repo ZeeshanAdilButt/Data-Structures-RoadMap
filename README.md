@@ -64,9 +64,9 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
             video: https://www.youtube.com/watch?v=KT9rltZTybQ&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=27
               problem:
             
-       5. Search Insert Position
+   5. Search Insert Position
                 
-             video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
+         video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
               problem: 
       
   -  Two Pointers:_
@@ -76,26 +76,27 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
               video: https://leetcode.com/problems/valid-palindrome/         
                problem: https://leetcode.com/problems/valid-palindrome/
                
-         2. Best time to buy and Sell Stock:
+      2. Best time to buy and Sell Stock:
                
-               video: https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7&pp=iAQB
+            video: https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7&pp=iAQB
                problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
       
       
-      - Stack & Queue Problems:_
+   - Stack & Queue Problems:_
            
-           1. Valid Parenthesis
+        1. Valid Parenthesis
                 
-                video: https://www.youtube.com/watch?v=WTzjTskDFMg
+             video: https://www.youtube.com/watch?v=WTzjTskDFMg
                 problem: https://leetcode.com/problems/valid-parentheses/
 
-            2. Implement Stack using Queue:
+        2. Implement Stack using Queue:
                 
-                video: https://www.youtube.com/watch?v=rW4vm0-DLYc&list=PLot-Xpze53lfxD6l5pAGvCD4nPvWKU8Qo&index=10
+             video: https://www.youtube.com/watch?v=rW4vm0-DLYc&list=PLot-Xpze53lfxD6l5pAGvCD4nPvWKU8Qo&index=10
                 problem: https://leetcode.com/problems/implement-stack-using-queues/
             
-            3. Implement Queue using Stack:
-                video: https://www.youtube.com/watch?v=3Et9MrMc02A&pp=ygUabmVldGNvZGUgcXVldWUgdXNpbmcgc3RhY2s%3D
+         3. Implement Queue using Stack:
+
+              video: https://www.youtube.com/watch?v=3Et9MrMc02A&pp=ygUabmVldGNvZGUgcXVldWUgdXNpbmcgc3RhY2s%3D
                 problem: https://leetcode.com/problems/implement-queue-using-stacks/
 
             4. Sqrt(x)
