@@ -25,7 +25,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
      - Introduction to Hash Tables and Dictionaries by CS Dojo:
         https://www.youtube.com/watch?v=sfWyugl4JWA   
         
-    Week 2 - 25 EASY problems ( 3-4 hours a day | 4 problems a day):
+Week 2 - 25 EASY problems ( 3-4 hours a day | 4 problems a day):
     
      _ Easy String Algorithms_
         - String as character arrays:
