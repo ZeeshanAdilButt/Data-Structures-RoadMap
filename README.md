@@ -40,24 +40,24 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
   
   2. Count characters in string
   
- video: https://www.youtube.com/watch?v=kWr0TIjO6nU
+      video: https://www.youtube.com/watch?v=kWr0TIjO6nU
     
  - Arrays & Hashing:_
  
-         1. Contains Duplicate
+      1. Contains Duplicate
          
-          - video: https://www.youtube.com/watch?v=3OamzN90kPg
-	      - problem: https://leetcode.com/problems/contains-duplicate/
+          video: https://www.youtube.com/watch?v=3OamzN90kPg
+	      problem: https://leetcode.com/problems/contains-duplicate/
 	        
-          2. Valid Anagram:
+   2. Valid Anagram:
           
-              - video: https://www.youtube.com/watch?v=9UtInBqnCgA
-              - problem: https://leetcode.com/problems/valid-anagram
+         video: https://www.youtube.com/watch?v=9UtInBqnCgA
+          problem: https://leetcode.com/problems/valid-anagram
               
-        3. Two Sum:
+     3. Two Sum:
         
-           -  video: https://www.youtube.com/watch?v=KLlXCFG5TnA
-           - problem: https://leetcode.com/problems/group-anagrams/
+           video: https://www.youtube.com/watch?v=KLlXCFG5TnA
+           problem: https://leetcode.com/problems/group-anagrams/
                
            4. Length of Last word:
            
