@@ -18,7 +18,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
  
 - Basic Understanding of Data structures in your language (C++ STL, C# Collections, Python Standard Library)
 - If you like C++ and more details > My code school Data Structures
-        https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P (C++)
+        - https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P (C++)
 - If you like Python > code basics - Data Structures   
         https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
         
