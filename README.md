@@ -99,35 +99,35 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
            video: https://www.youtube.com/watch?v=3Et9MrMc02A&pp=ygUabmVldGNvZGUgcXVldWUgdXNpbmcgc3RhY2s%3D
                 problem: https://leetcode.com/problems/implement-queue-using-stacks/
 
-         4. Sqrt(x)
+       4. Sqrt(x)
                
-               problem: https://leetcode.com/problems/sqrtx/
-                video:
+             problem: https://leetcode.com/problems/sqrtx/
+              video:
                 
-           5. 704 Binary Search
+        5. 704 Binary Search
              
-                problem: https://leetcode.com/problems/binary-search/
-                video:   
+             problem: https://leetcode.com/problems/binary-search/
+             video:   
              
-           6.  Count Negative Numbers in a Sorted Matrix
+        6.  Count Negative Numbers in a Sorted Matrix
                 
-                problem:  https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
-                video: 
+             problem:  https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+             video: 
              
-             7. Peak Index in a Mountain Array
+        7. Peak Index in a Mountain Array
                 
                 
-                - problem:  https://leetcode.com/problems/peak-index-in-a-mountain-array/
-                - video:
+              - problem:  https://leetcode.com/problems/peak-index-in-a-mountain-array/
+              - video:
              
-             8. Find Peak element:
+        8. Find Peak element:
                 
-                - video: https://www.youtube.com/watch?v=CFgUQUL7j_c   
+            - video: https://www.youtube.com/watch?v=CFgUQUL7j_c   
                 - problem: 
              
-             9. Maximum Sub Array:
+        9. Maximum Sub Array:
                 
-                - video: https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4
+            - video: https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4
                 - problem: https://leetcode.com/problems/maximum-subarray/
      
 - Linked List Course:_
