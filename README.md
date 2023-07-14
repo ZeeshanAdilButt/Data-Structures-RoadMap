@@ -59,27 +59,32 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
            video: https://www.youtube.com/watch?v=KLlXCFG5TnA
            problem: https://leetcode.com/problems/group-anagrams/
                
-           4. Length of Last word:
+      4. Length of Last word:
            
-            -  video: https://www.youtube.com/watch?v=KT9rltZTybQ&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=27
-              - problem:
-             -
-             5. Search Insert Position
+            video: https://www.youtube.com/watch?v=KT9rltZTybQ&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=27
+              problem:
+            
+       5. Search Insert Position
                 
-                - video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
-                - problem: 
+             video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
+              problem: 
       
-      _ - Two Pointers:_
+  -  Two Pointers:_
       
-           1. Valid Palindrome
-                - video: https://leetcode.com/problems/valid-palindrome/         
-                - problem: https://leetcode.com/problems/valid-palindrome/
-            2. - Best time to buy and Sell Stock:
-               - video: https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7&pp=iAQB
-                - problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+        1. Valid Palindrome
+        
+              video: https://leetcode.com/problems/valid-palindrome/         
+               problem: https://leetcode.com/problems/valid-palindrome/
+               
+         2. Best time to buy and Sell Stock:
+               
+               video: https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7&pp=iAQB
+               problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
       
-       _ - Stack & Queue Problems:_
-            1. Valid Parenthesis
+      
+      - Stack & Queue Problems:_
+           
+           1. Valid Parenthesis
                 
                 video: https://www.youtube.com/watch?v=WTzjTskDFMg
                 problem: https://leetcode.com/problems/valid-parentheses/
@@ -94,28 +99,32 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
                 problem: https://leetcode.com/problems/implement-queue-using-stacks/
 
             4. Sqrt(x)
+               
                 problem: https://leetcode.com/problems/sqrtx/
                 video:
                 
              5. 704. Binary Search
+             
                 problem: https://leetcode.com/problems/binary-search/
                 video:   
              
-             6. 1351. Count Negative Numbers in a Sorted Matrix
+             7. 1351. Count Negative Numbers in a Sorted Matrix
+                
                 problem:  https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
                 video: 
              
-             7. 1351.  Peak Index in a Mountain Array
+             8. 1351.  Peak Index in a Mountain Array
+                
                 
                 - problem:  https://leetcode.com/problems/peak-index-in-a-mountain-array/
                 - video:
              
-             8. Find Peak element:
+             9. Find Peak element:
                 
                 - video: https://www.youtube.com/watch?v=CFgUQUL7j_c   
                 - problem: 
              
-             9. Maximum Sub Array:
+             10. Maximum Sub Array:
                 
                 - video: https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4
                 - problem: https://leetcode.com/problems/maximum-subarray/
