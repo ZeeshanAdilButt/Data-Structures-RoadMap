@@ -143,17 +143,17 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
            https://leetcode.com/problems/reverse-linked-list/
            https://www.youtube.com/watch?v=G0_I-ZF0S38
              
-      2. Merge 2 sorted Lits
+    2. Merge 2 sorted Lits
             
-           https://leetcode.com/problems/merge-two-sorted-lists/
-           https://www.youtube.com/watch?v=XIdigk956u0
+         https://leetcode.com/problems/merge-two-sorted-lists/
+         https://www.youtube.com/watch?v=XIdigk956u0
              
-        3. Linked List Cycle
+     3. Linked List Cycle
                 
            https://leetcode.com/problems/linked-list-cycle/
            https://www.youtube.com/watch?v=gBTe7lFR3vc
              
-        4. Reverse Linked List - Iterative AND Recursive
+     4. Reverse Linked List - Iterative AND Recursive
                
      video: https://www.youtube.com/watch?v=G0_I-ZF0S38&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=10&pp=iAQB
                code: https://leetcode.com/problems/reverse-linked-list/
@@ -163,7 +163,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
            video: https://www.youtube.com/watch?v=yOzXms1J6Nk&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=13
                 problem: 
                 
-        6. Remove Linked List element:
+     6. Remove Linked List element:
                 
-              video: https://www.youtube.com/watch?v=JI71sxtHTng&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=21&pp=iAQB
+          video: https://www.youtube.com/watch?v=JI71sxtHTng&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=21&pp=iAQB
                   problem: 
