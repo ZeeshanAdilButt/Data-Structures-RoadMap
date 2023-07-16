@@ -166,4 +166,9 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
      6. Remove Linked List element:
                 
           video: https://www.youtube.com/watch?v=JI71sxtHTng&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=21&pp=iAQB
-                  problem: 
+                  problem:
+
+## Some good resources:
+ 
+- Bit Manipulation Reading:
+  https://www.youtube.com/watch?v=7jkIUgLC29I	
