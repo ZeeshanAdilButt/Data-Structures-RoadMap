@@ -214,6 +214,43 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
    problem: https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 
+
+## Week 3:
+
+## Dynamic Programming (DP):
+
+- Easy Problems:
+	1. 338. Counting Bits
+    	Video: https://youtu.be/AgMr5uojxbM
+
+	2. 1025. Divisor Game
+    	Video: https://www.youtube.com/watch?v=UbE4-ONpJcc&ab_channel=Fraz
+
+	3. 70. Climbing Stairs
+        Video: https://youtu.be/UUaMrNOvSqg
+
+	4. 121. Best Time to Buy and Sell Stock
+	Video: https://youtu.be/excAOvwF_Wk
+
+	5. 746. Min Cost Climbing Stairs
+	Video: https://youtu.be/8TDeGdY6qaM
+
+	6. 509. Fibonacci Number
+	Video: https://youtu.be/WvffCsh3Nt4
+
+	7. 1137. N-th Tribonacci Number
+	Video: https://youtu.be/WvffCsh3Nt4
+
+- Medium Problems:
+  	1. 139. Word Break
+	Video: https://youtu.be/_iIK7Gu7MNo
+
+ 	2. 198. House Robber
+	Video: https://youtu.be/ZwDDLAeeBM0
+
+	3. 53. Maximum Subarray
+    	Video: https://youtu.be/6HntYGZyjZI
+
   
 ## Some good resources:
  
