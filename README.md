@@ -168,6 +168,48 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
           video: https://www.youtube.com/watch?v=JI71sxtHTng&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=21&pp=iAQB
                   problem:
 
+## Week 3 --continue
+     #Recursion
+      1. Merge Two Sorted Lists
+         Problem: https://leetcode.com/problems/merge-two-sorted-lists/
+	 Video: https://www.youtube.com/watch?v=XIdigk956u0
+  
+      2. Reverse linked Lists
+         Problem: https://leetcode.com/problems/reverse-linked-list/
+	 Video: https://www.youtube.com/watch?v=G0_I-ZF0S38
+
+      3. Power of two
+         Problem: https://leetcode.com/problems/power-of-two/
+
+      4. Power of three
+         Problem: https://leetcode.com/problems/power-of-three/
+
+      5. Power of four
+         Problem: https://leetcode.com/problems/power-of-four/
+
+      6. Swap nodes in pair
+         Problem: https://leetcode.com/problems/swap-nodes-in-pairs/
+	 Video: https://www.youtube.com/watch?v=o811TZLAWOo
+
+      7. Pow(x, n)
+         Problem: https://leetcode.com/problems/powx-n/
+	 Video: https://www.youtube.com/watch?v=g9YQyYi4IQQ&t=628s
+
+      8. Reorder List
+         Problem: https://leetcode.com/problems/reorder-list/
+	 Video: https://www.youtube.com/watch?v=xRYPjDMSUFw
+
+      9. Remove Nodes From Linked List
+         Problem: https://leetcode.com/problems/remove-nodes-from-linked-list/
+	 
+      10. Add Two Numbers
+         Problem: https://leetcode.com/problems/add-two-numbers/
+	 Video: https://www.youtube.com/watch?v=wgFPrzTjm7s&t=230s
+	 
+      
+      
+	
+
 ## Some good resources:
  
 - Bit Manipulation Reading:
