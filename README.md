@@ -196,22 +196,22 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 
    1-Find the Town Judge
    
-        video: https://www.youtube.com/watch?v=ZUP_tIs4VaE
+   video: https://www.youtube.com/watch?v=ZUP_tIs4VaE
  
-	problem https://leetcode.com/problems/find-the-town-judge/
+   problem https://leetcode.com/problems/find-the-town-judge/
 
    2- Find Center of Star Graph
    
-	video: https://www.youtube.com/watch?v=KEKcW6eLyEY
+   video: https://www.youtube.com/watch?v=KEKcW6eLyEY
  
-	problem: https://leetcode.com/problems/find-center-of-star-graph/
+   problem: https://leetcode.com/problems/find-center-of-star-graph/
 
  
    3-Find if Path Exists in Graph
    
-	video: https://www.youtube.com/watch?v=QC4bDHEnmLM&pp=ygUfMTc5MS4gRmluZCBDZW50ZXIgb2YgU3RhciBHcmFwaA%3D%3D
+   video: https://www.youtube.com/watch?v=QC4bDHEnmLM&pp=ygUfMTc5MS4gRmluZCBDZW50ZXIgb2YgU3RhciBHcmFwaA%3D%3D
  
-	problem: https://leetcode.com/problems/find-if-path-exists-in-graph/
+   problem: https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 
   
