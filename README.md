@@ -220,35 +220,35 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 ## Dynamic Programming (DP):
 
 - Easy Problems:
-	1. 338. Counting Bits
+	1. Counting Bits: https://leetcode.com/problems/counting-bits/
     	Video: https://youtu.be/AgMr5uojxbM
 
-	2. 1025. Divisor Game
+	2. Divisor Game: https://leetcode.com/problems/divisor-game/
     	Video: https://www.youtube.com/watch?v=UbE4-ONpJcc&ab_channel=Fraz
 
-	3. 70. Climbing Stairs
+	3. Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
         Video: https://youtu.be/UUaMrNOvSqg
 
-	4. 121. Best Time to Buy and Sell Stock
+	4. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 	Video: https://youtu.be/excAOvwF_Wk
 
-	5. 746. Min Cost Climbing Stairs
+	5. Min Cost Climbing Stairs: https://leetcode.com/problems/min-cost-climbing-stairs/
 	Video: https://youtu.be/8TDeGdY6qaM
 
-	6. 509. Fibonacci Number
+	6. Fibonacci Number: https://leetcode.com/problems/fibonacci-number/
 	Video: https://youtu.be/WvffCsh3Nt4
 
-	7. 1137. N-th Tribonacci Number
+	7. N-th Tribonacci Number: https://leetcode.com/problems/n-th-tribonacci-number/
 	Video: https://youtu.be/WvffCsh3Nt4
 
 - Medium Problems:
-  	1. 139. Word Break
+  	1. Word Break: https://leetcode.com/problems/word-break/
 	Video: https://youtu.be/_iIK7Gu7MNo
 
- 	2. 198. House Robber
+ 	2. House Robber: https://leetcode.com/problems/house-robber/
 	Video: https://youtu.be/ZwDDLAeeBM0
 
-	3. 53. Maximum Subarray
+	3. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/
     	Video: https://youtu.be/6HntYGZyjZI
 
   
