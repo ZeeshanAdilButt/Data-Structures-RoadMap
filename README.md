@@ -168,6 +168,53 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
           video: https://www.youtube.com/watch?v=JI71sxtHTng&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=21&pp=iAQB
                   problem:
 
+## Week 3
+
+# Hash table
+
+   1- Happy Number
+   	https://leetcode.com/problems/happy-number/
+	
+  
+  2- Isomorphic Strings
+   	https://leetcode.com/problems/isomorphic-strings/
+
+    
+   3- Missing Number
+   	https://leetcode.com/problems/missing-number/
+
+ 
+   4- Word Pattern
+   	https://leetcode.com/problems/word-pattern/
+
+   5- Next Greater Element I
+   	https://leetcode.com/problems/next-greater-element-i/
+
+	
+
+# Graph
+
+   1-Find the Town Judge
+   
+   video: https://www.youtube.com/watch?v=ZUP_tIs4VaE
+ 
+   problem https://leetcode.com/problems/find-the-town-judge/
+
+   2- Find Center of Star Graph
+   
+   video: https://www.youtube.com/watch?v=KEKcW6eLyEY
+ 
+   problem: https://leetcode.com/problems/find-center-of-star-graph/
+
+ 
+   3-Find if Path Exists in Graph
+   
+   video: https://www.youtube.com/watch?v=QC4bDHEnmLM&pp=ygUfMTc5MS4gRmluZCBDZW50ZXIgb2YgU3RhciBHcmFwaA%3D%3D
+ 
+   problem: https://leetcode.com/problems/find-if-path-exists-in-graph/
+
+
+  
 ## Some good resources:
  
 - Bit Manipulation Reading:
