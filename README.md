@@ -169,7 +169,30 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
                   problem:
 
 ## Week 3
-#Graph
+
+# Hash table
+
+   1- Happy Number
+   	https://leetcode.com/problems/happy-number/
+	
+  
+  2- Isomorphic Strings
+   	https://leetcode.com/problems/isomorphic-strings/
+
+    
+   3- Missing Number
+   	https://leetcode.com/problems/missing-number/
+
+ 
+   4- Word Pattern
+   	https://leetcode.com/problems/word-pattern/
+
+   5- Next Greater Element I
+   	https://leetcode.com/problems/next-greater-element-i/
+
+	
+
+# Graph
 
    1-Find the Town Judge
 	video: https://www.youtube.com/watch?v=ZUP_tIs4VaE
@@ -180,7 +203,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 	problem: https://leetcode.com/problems/find-center-of-star-graph/
 
  
-   2-Find if Path Exists in Graph
+   3-Find if Path Exists in Graph
 	video: https://www.youtube.com/watch?v=QC4bDHEnmLM&pp=ygUfMTc5MS4gRmluZCBDZW50ZXIgb2YgU3RhciBHcmFwaA%3D%3D
 	problem: https://leetcode.com/problems/find-if-path-exists-in-graph/
 
