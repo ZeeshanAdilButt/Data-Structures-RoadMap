@@ -255,4 +255,47 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 ## Some good resources:
  
 - Bit Manipulation Reading:
-  https://www.youtube.com/watch?v=7jkIUgLC29I	
+  https://www.youtube.com/watch?v=7jkIUgLC29I
+
+
+  #  Backtracking:
+
+   1- Letter Combinations of a Phone Number
+  
+
+    problem  https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+  
+    video:  https://www.youtube.com/watch?v=irkG33phXuw
+  
+  2- The k-th Lexicographical String of All Happy Strings of Length n 
+  
+
+    problem   https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+  
+    video:   https://www.youtube.com/watch?v=t3Hb0NYOA1c
+    
+
+## Best Problems:
+
+1. [Best Time to Buy and Sell Stock](https://leetcode.com/submissions/detail/916673578/)
+
+2. [First Bad Version](https://leetcode.com/submissions/detail/915669147/)
+
+3. [Isomorphic Strings](https://leetcode.com/submissions/detail/916216154/) 
+
+4. [Two Sum](https://leetcode.com/submissions/detail/916217157/)
+
+5. [Squares of a Sorted Array](https://leetcode.com/submissions/detail/916672517/)
+
+6. [Merge Two Sorted Lists](https://leetcode.com/submissions/detail/916672180/)
+
+7. [Is Subsequence](https://leetcode.com/submissions/detail/916216639/)
+
+8. [Two Sum II - Input Array Is Sorted](https://leetcode.com/submissions/detail/916673386/)
+
+9. [Rotate Array](https://leetcode.com/submissions/detail/916672820/)
+
+10. [Reverse Linked List](https://leetcode.com/submissions/detail/916672260/)
+
+11. [Search Insert Position](https://leetcode.com/submissions/detail/915672113/)
+  
