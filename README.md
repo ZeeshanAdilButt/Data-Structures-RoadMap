@@ -255,4 +255,24 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 ## Some good resources:
  
 - Bit Manipulation Reading:
-  https://www.youtube.com/watch?v=7jkIUgLC29I	
+  https://www.youtube.com/watch?v=7jkIUgLC29I
+
+
+  #  Backtracking:
+
+   1- Letter Combinations of a Phone Number
+  
+
+    problem  https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+  
+    video:  https://www.youtube.com/watch?v=irkG33phXuw
+  
+  2- The k-th Lexicographical String of All Happy Strings of Length n 
+  
+
+    problem   https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+  
+    video:   https://www.youtube.com/watch?v=t3Hb0NYOA1c
+   
+
+  
