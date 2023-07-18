@@ -202,17 +202,17 @@ https://www.youtube.com/watch?v=IJDJ0kBx2LM
 https://www.youtube.com/watch?v=IJDJ0kBx2LM
 
 
-Full Course:
+Trees Full Course:
 https://www.youtube.com/watch?v=fAAZixBzIAI
 
 
-# Graph
+# Graphs
 
    ### Recursion Course ( watch the graphs section):
 
    https://www.youtube.com/watch?v=IJDJ0kBx2LM
    
-   Full Course:
+   Graphs Full Course:
 
    https://www.youtube.com/watch?v=tWVWeAqZ0WU
 
@@ -240,7 +240,7 @@ https://www.youtube.com/watch?v=fAAZixBzIAI
 
 ## Dynamic Programming (DP):
 
-Full Course:
+Dynamic Programming (DP) Full Course:
 https://www.youtube.com/watch?v=oBt53YbR9Kk&t=29s
 
 - Easy Problems:
@@ -277,7 +277,9 @@ https://www.youtube.com/watch?v=oBt53YbR9Kk&t=29s
 
   
 
-## Week 5 -   Backtracking:
+## Week 5 -   Backtracking
+
+  #### simple trick backtracking is DP which undoes its operation if it doesn't find the answer:
   
 
    1- Letter Combinations of a Phone Number
