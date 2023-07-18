@@ -214,7 +214,6 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
    problem: https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 
-
 ## Week 4:
 
 ## Dynamic Programming (DP):
@@ -252,30 +251,25 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
     	Video: https://youtu.be/6HntYGZyjZI
 
   
-## Some good resources:
- 
-- Bit Manipulation Reading:
-  https://www.youtube.com/watch?v=7jkIUgLC29I
 
-
-  #  Backtracking:
+## Week 5 -   Backtracking:
+  
 
    1- Letter Combinations of a Phone Number
   
-
     problem  https://leetcode.com/problems/letter-combinations-of-a-phone-number/
   
     video:  https://www.youtube.com/watch?v=irkG33phXuw
   
   2- The k-th Lexicographical String of All Happy Strings of Length n 
   
-
     problem   https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
   
     video:   https://www.youtube.com/watch?v=t3Hb0NYOA1c
     
-
-## Best Problems:
+## ++++++++++++++++++++++++++++++++++++++++++
+  
+## Some more nice problems (to be updated):
 
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/submissions/detail/916673578/)
 
@@ -299,3 +293,8 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 
 11. [Search Insert Position](https://leetcode.com/submissions/detail/915672113/)
   
+
+## Some good resources (to be updated):
+ 
+- Bit Manipulation Reading:
+  https://www.youtube.com/watch?v=7jkIUgLC29I
