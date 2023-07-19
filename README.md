@@ -235,6 +235,51 @@ https://www.youtube.com/watch?v=fAAZixBzIAI
  
    problem: https://leetcode.com/problems/find-if-path-exists-in-graph/
 
+## DFS
+
+1- Binary Tree Inorder Traversal
+ - video:  https://youtu.be/g_S5WuasWUE
+ - problem:  https://leetcode.com/problems/binary-tree-inorder-traversal
+  
+2- Binary Tree Preorder Traversal
+ - video:  https://youtu.be/afTpieEZXck
+ - problem:  https://leetcode.com/problems/binary-tree-preorder-traversal
+
+3- Binary Tree Postorder Traversal
+- video:  https://youtu.be/QhszUQhGGlA
+- problem:  https://leetcode.com/problems/binary-tree-postorder-traversal
+
+4- Validate Binary Search Tree
+ - video:  https://youtu.be/s6ATEkipzow
+ - problem:  https://leetcode.com/problems/validate-binary-search-tree
+  
+5- Path Sum
+- video:  https://youtu.be/LSKQyOz_P8I
+- problem:  https://leetcode.com/problems/path-sum
+  
+6- Pacific Atlantic Water Flow
+ - video:  https://youtu.be/s-VkcjHqkGI
+ - problem: https://leetcode.com/problems/pacific-atlantic-water-flow
+  
+
+## BFS
+
+1- Binary Tree Level Order Traversal
+- video: https://youtu.be/6ZnyEApgFYg
+- problem: https://leetcode.com/problems/binary-tree-level-order-traversal
+
+2- Maximum Depth of Binary Tree
+- video: https://youtu.be/hTM3phVI6YQ
+- problem: https://leetcode.com/tag/breadth-first-search/
+
+3- Same Tree
+- video: https://youtu.be/vRbbcKXCxOw
+- problem: https://leetcode.com/problems/same-tree/
+
+
+## Graph Algorithm for Technical Interview
+ - video: https://youtu.be/tWVWeAqZ0WU
+
 
 ## Week 4:
 
@@ -283,16 +328,12 @@ https://www.youtube.com/watch?v=oBt53YbR9Kk&t=29s
   
 
    1- Letter Combinations of a Phone Number
-  
-    problem  https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-  
-    video:  https://www.youtube.com/watch?v=irkG33phXuw
+  	<br>problem  https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+  	<br>video:  https://www.youtube.com/watch?v=irkG33phXuw
   
   2- The k-th Lexicographical String of All Happy Strings of Length n 
-  
-    problem   https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
-  
-    video:   https://www.youtube.com/watch?v=t3Hb0NYOA1c
+  	<br>problem   https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+  	<br>video:   https://www.youtube.com/watch?v=t3Hb0NYOA1c
     
 ## ++++++++++++++++++++++++++++++++++++++++++
   
