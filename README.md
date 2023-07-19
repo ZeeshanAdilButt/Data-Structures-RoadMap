@@ -129,7 +129,12 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
                 
             - video: https://www.youtube.com/watch?v=5WZl3MMT0Eg&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4
                 - problem: https://leetcode.com/problems/maximum-subarray/
-     
+
+### Recursion Course ( don't watch the trees or graphs section):
+
+https://www.youtube.com/watch?v=IJDJ0kBx2LM
+
+
 - Linked List Course:_
           
      course with problems (find all the similar problems on leetcode):
@@ -190,9 +195,26 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
    5- Next Greater Element I
    	https://leetcode.com/problems/next-greater-element-i/
 
-	
+# Trees	
 
-# Graph
+### Recursion Course (watch the trees section):
+
+https://www.youtube.com/watch?v=IJDJ0kBx2LM
+
+
+Trees Full Course:
+https://www.youtube.com/watch?v=fAAZixBzIAI
+
+
+# Graphs
+
+   ### Recursion Course ( watch the graphs section):
+
+   https://www.youtube.com/watch?v=IJDJ0kBx2LM
+   
+   Graphs Full Course:
+
+   https://www.youtube.com/watch?v=tWVWeAqZ0WU
 
    1-Find the Town Judge
    
@@ -263,6 +285,9 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 
 ## Dynamic Programming (DP):
 
+Dynamic Programming (DP) Full Course:
+https://www.youtube.com/watch?v=oBt53YbR9Kk&t=29s
+
 - Easy Problems:
 	1. Counting Bits: https://leetcode.com/problems/counting-bits/
     	Video: https://youtu.be/AgMr5uojxbM
@@ -297,7 +322,9 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
 
   
 
-## Week 5 -   Backtracking:
+## Week 5 -   Backtracking
+
+  #### simple trick backtracking is DP which undoes its operation if it doesn't find the answer:
   
 
    1- Letter Combinations of a Phone Number
