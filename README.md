@@ -57,7 +57,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
      3. Two Sum:
         
            video: https://www.youtube.com/watch?v=KLlXCFG5TnA
-           problem: https://leetcode.com/problems/group-anagrams/
+           problem: (https://leetcode.com/problems/two-sum/)
                
       4. Length of Last word:
            
