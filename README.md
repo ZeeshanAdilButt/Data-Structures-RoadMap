@@ -62,12 +62,12 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
       4. Length of Last word:
            
             video: https://www.youtube.com/watch?v=KT9rltZTybQ&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=27
-              problem:
+              problem: https://leetcode.com/problems/length-of-last-word/
             
    5. Search Insert Position
                 
          video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
-              problem: 
+              problem: https://leetcode.com/problems/search-insert-position/
       
   -  Two Pointers:_
       
