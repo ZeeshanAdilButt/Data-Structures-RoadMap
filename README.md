@@ -73,7 +73,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
       
         1. Valid Palindrome
         
-              video: https://leetcode.com/problems/valid-palindrome/         
+              video: [https://leetcode.com/problems/valid-palindrome/](https://youtu.be/jJXJ16kPFWg?si=pdfi7FrWzoxV0h-M)         
                problem: https://leetcode.com/problems/valid-palindrome/
                
       2. Best time to buy and Sell Stock:
