@@ -123,7 +123,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
         8. Find Peak element:
                 
             - video: https://www.youtube.com/watch?v=CFgUQUL7j_c   
-                - problem: 
+                - problem: https://leetcode.com/problems/find-peak-element/
              
         9. Maximum Sub Array:
                 
