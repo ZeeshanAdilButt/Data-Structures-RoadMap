@@ -62,18 +62,18 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
       4. Length of Last word:
            
             video: https://www.youtube.com/watch?v=KT9rltZTybQ&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=27
-              problem:
+              problem: https://leetcode.com/problems/length-of-last-word/
             
    5. Search Insert Position
                 
          video: https://www.youtube.com/watch?v=K-RYzDZkzCI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=23
-              problem: 
+              problem: https://leetcode.com/problems/search-insert-position/
       
   -  Two Pointers:_
       
         1. Valid Palindrome
         
-              video: https://leetcode.com/problems/valid-palindrome/         
+              video: [https://leetcode.com/problems/valid-palindrome/](https://youtu.be/jJXJ16kPFWg?si=pdfi7FrWzoxV0h-M)         
                problem: https://leetcode.com/problems/valid-palindrome/
                
       2. Best time to buy and Sell Stock:
@@ -123,7 +123,7 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
         8. Find Peak element:
                 
             - video: https://www.youtube.com/watch?v=CFgUQUL7j_c   
-                - problem: 
+                - problem: https://leetcode.com/problems/find-peak-element/
              
         9. Maximum Sub Array:
                 
