@@ -321,6 +321,30 @@ https://www.youtube.com/watch?v=oBt53YbR9Kk&t=29s
     	Video: https://youtu.be/6HntYGZyjZI
 
   
+## Divide and Conquer
+
+- Divide & Conquer Algorithm: https://youtu.be/YOh6hBtX5l0
+
+1- Majority Element
+- video: https://youtu.be/28D-VLSXBt0
+- problem: https://leetcode.com/problems/majority-element
+
+2- Maximum Subarray
+- video: https://youtu.be/ohHWQf1HDfU
+- problem: https://leetcode.com/problems/maximum-subarray
+
+3- Kth Large Element in an Array
+- video: https://youtu.be/XEmy13g1Qxc
+- problem: https://leetcode.com/problems/kth-largest-element-in-an-array
+
+4- Sort an Array
+- video: https://youtu.be/MsYZSinhuFo
+- problem: https://leetcode.com/problems/sort-an-array
+
+### Room Task
+- Top K Frequent Elements: https://leetcode.com/problems/top-k-frequent-elements
+- Merge k Sorted Lists: https://leetcode.com/problems/merge-k-sorted-lists
+
 
 ## Week 5 -   Backtracking
 
