@@ -82,16 +82,16 @@ Some **considerations** while starting with problem-solving till 100+ Leetcode p
                problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
       3. Maximum Subarray
-LeetCode #53
-https://leetcode.com/problems/maximum-subarray/
+	LeetCode #53
+	https://leetcode.com/problems/maximum-subarray/
 
-4. Container With Most Water
-LeetCode #11
-https://leetcode.com/problems/container-with-most-water/
+	4. Container With Most Water
+	LeetCode #11
+	https://leetcode.com/problems/container-with-most-water/
 
-5 . Best Time to Buy and Sell Stock II
-LeetCode #122
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+	5 . Best Time to Buy and Sell Stock II
+	LeetCode #122
+	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
       
       
    - Stack & Queue Problems:_
